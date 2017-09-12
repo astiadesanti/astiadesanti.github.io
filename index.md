@@ -1,6 +1,6 @@
 REVIEW : FRUIT NINJA
 
- <img src="1.jpg">
+ <img src="asset/1.jpg">
  
  <p align="justify">
 Fruit Ninja adalah permainan yang sangat sederhana, yang didasarkan dalam dua kata yaitu: chop (potong) dan fruit (buah). Dengan latar belakang kayu, berbagai jenis buah (dan bom sesekali) dilempar ke udara. Yang harus dilakukan adalah menggeser jari di atas layar untuk memotong buah menjadi dua sebelum hilang dari pandangan atau jatuh ke bawah. Bagian dari daya tarik Fruit Ninja adalah bahwa ini adalah ide yang sederhana, dan ketika pemain kalah dalam permainan, maka akan muncul dalam diri pemain untuk bermain kembali demi mendapatkan nilai yang lebih tinggi.
@@ -8,7 +8,7 @@ Fruit Ninja adalah permainan yang sangat sederhana, yang didasarkan dalam dua ka
 
 Game Play
 
-<img src="2.jpg">
+<img src="asset/2.jpg">
 
 Fruit Ninja memiliki 3 mode permainan :
 
@@ -43,4 +43,12 @@ Permainan sederhana ini dikemas dengan sangat baik. Ketika buah dilempar, akan t
 
 <p align="justify">
 Jika kalian telah dipaksa diberi makan buah sejak kecil dan tidak menyukainya, maka akan berbeda ketika mendapat paksaan untuk bermain Fruit Ninja. Permainan ini menyenangkan dengan memotong buah yang tiada henti. Mudah untuk dimainkan, dan entah bagaimana game sederhana ini berhasil menghibur untuk waktu yang cukup lama serta membuatnya ingin dimainkan terus-menerus.
+</p>
+
+Trailer’s Analysis
+<p align="justify">
+Fruit Ninja merupakan game yang simple dibandingkan dengan game lainnya, sehingga menjadi keunikan tersendiri. Pemain akan dibuat rasa penasaran dan ingin terus memainkannya untuk mencapai poin melebihi high score yang ada. Saya memainkan game ini tanpa melihat kaitan trailernya, saya mengetahuinya dari teman saya saat SMA, semua banyak yang membicarakan dan memainkan game ini. 
+</p>
+<p align="justify">
+Setelah semakin eksis, saya melihat iklan game ini pada beberapa aplikasi mobile maupun website. Ini berupakan cara promosi game yang sangat baik karena akan mengundang rasa penasaran dan kemauan pengunjung untuk memainkan game tersebut.
 </p>
