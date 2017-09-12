@@ -12,25 +12,24 @@ Game Play
 
 Fruit Ninja memiliki 3 mode permainan :
 
-Classic
-
 <p align="justify">
+1. Classic
 Pemain hanya boleh melewatkan tiga buah saja barulah permainan berakhir, tapi hati-hati, jika pemain memotong sebuah bom tunggal (dilemparkan secara acak) maka permainan langsung berakhir. Jadi pemain harus menjaga mata mereka agar tetap fokus. Jika pemain berhenti memperhatikan layar bahkan sedetik pun, maka akan kehilangan peluang mencetak nilai besar, dan bahkan mungkin saja permainan berakhir.
 </p>
 <p align="justify">
 Semakin banyak buah yang terpotong, maka semakin lama pemain bertahan. Semakin lama pemain bertahan, maka semakin tinggi nilai yang diperoleh. Ini adalah game sederhana yang diuntungkan dari kesederhanaannya. Jika seseorang mencoba memainkannya selama 10 detik, pasti dia akan mengatakan bahwa permainan ini menyenangkan dan merasa ingin memainkannya terus menerus.
 </p>
 
-Zen Mode
 <p align="justify">
+2. Zen Mode
 Pada Zen Mode, pemain akan diberikan waktu 1 menit 30 detik untuk memotong buah yang keluar. Pada mode ini tidak ada bom dan tidak ada nyawa. Jika pemain membiarkan buah terjatuh tanpa memotongnya, maka permainan tetap berlanjut hanya saja pemain meninggalkan poin yang seharusnya dapat diambil. Semakin banyak pemain dapat memotong buah, maka semakin banyak poin yang akan didapat.
 </p>
 
-Arcade Mode
 <p align="justify">
+3. Arcade Mode
 Dalam Arcade Mode, pemain akan memiliki waktu 60 detik untuk berlomba mendapatkan poin tertinggi dari potongan buah. Jika bom terpotong maka akan mengurangi poin yang sudah dicapai oleh pemain. Akan ada juga pisang berwarna khusus yang keluar secara acak untuk memberi bonus kepada pemain jika pemain dapat memotongnya. Bonusnya seperti menggandakan poin pemain pada sementara waktu, memperlambat waktu, atau mengisi layar dengan deru buah. 
 Gameplay Fruit Ninja ini dikupas dasar sehingga tidak mengherankan bahwa setiap update yang mereka lakukan hanya menambahkan elemen gameplay minor. Berbicara mengenai mode permainan, terdapat juga sistem penghargaan atau prestasi. Saat bermain dengan baik, tujuan spesifik, seperti potongan 100 pisang, maka akan pemain akan diberi penghargaan berupa modifikasi pada pola menyapu pisau, atau akan mendapatkan latar belakang yang berbeda.
-</>
+</p>
 
 Graphics
 <p align="justify">
